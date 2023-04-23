@@ -19,7 +19,7 @@ if num2 % 2==1:
 if num3 % 2==1:
     sum+=num3
 
-print (sum)
+print ("sum of the three odd numbers is {}".format(sum))
 
 
 
