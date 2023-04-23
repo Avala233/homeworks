@@ -51,7 +51,7 @@
 #დავპრინტოთ წინადადებაში ეს ცვლადები ფორმატ მეთოდის გამოყენებით
 #გავიყვანოთ სამი წელი და მოვუმატოთ ასაკი , დავპრინტოთ ახალი წინადადება:
                #ამოხსნა:
-#ძველი ვერსია:my_name = imput("Please enter your name") *ასაკის მიმატებისას მოგვცა ერორი
+#ძველი ვერსია:my_name = input("Please enter your name") *ასაკის მიმატებისას მოგვცა ერორი
 # my_name = int(input(" please enter your name" ))  #input-ით ყოველთვის შემოდის სტრინგი ამიტო მოგვიწია სტრინგის ინტეჯერად გარდაქმნა {გარდაქმნის მეორე მეთოდი განხილულია ქვემოთ}
 # my_surname = input(" please enter your surname" )
 # my_age = input("please enter your age" )
