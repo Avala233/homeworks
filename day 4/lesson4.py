@@ -69,7 +69,7 @@
 # my_sentence = input("enter your sentence here")
 # as_in_my_sentence = 0
 # for char in my_sentence:
-#     if a":char == "
+#     if char =="a":
 #         as_in_my_sentence += 1
         
 # print('there is {} "a" in my sentence'.format(as_in_my_sentence))
